@@ -1,5 +1,5 @@
 # SAMSUNG INNOVATION CAMPUS (SIC - AI)
-Samsung Innovation Campus (SIC) is a global educational initiative by Samsung designed to equip learners with essential skills and knowledge in Artificial Intelligence (AI) aligned with the Fourth Industrial Revolution. The AI track covers foundational and advanced topics including mathematics for AI, Python programming, data preprocessing, machine learning, deep learning, and practical project development.
+As a student of the Samsung Innovation Campus (SIC), I have been participating in a global educational initiative by Samsung that aims to empower learners with essential skills in Artificial Intelligence (AI). The AI track I am following provides a comprehensive curriculum that includes both foundational and advanced topics such as mathematics for AI, Python programming, data preprocessing, machine learning, deep learning, and hands-on project development.
 
 This repository contains all coursework exercises as well as the capstone project completed during the program.
 
